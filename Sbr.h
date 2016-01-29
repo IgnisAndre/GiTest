@@ -1,1 +1,1 @@
-printf("Go fuck yourself!");
+printf("Go fuck yourself!"); // А не слишком ли грубо?
