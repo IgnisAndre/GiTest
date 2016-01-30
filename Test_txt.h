@@ -1,4 +1,4 @@
 printf("\nIT'S ALIVE");
 printf("\nor it isn't?");
-//надо бы оставить после себя комментарий
+//as we see, Russian has problems here
 printf(" That is the question!");
